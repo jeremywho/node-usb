@@ -113,12 +113,10 @@
             'libusb/libusb/os/events_windows.h',
             'libusb/libusb/os/threads_windows.c',
             'libusb/libusb/os/threads_windows.h',
+            'libusb/libusb/os/windows_common.c',
             'libusb/libusb/os/windows_common.h',
             'libusb/libusb/os/windows_winusb.c',
             'libusb/libusb/os/windows_winusb.h',
-            'libusb/libusb/os/windows_nt_common.c',
-            'libusb/libusb/os/windows_nt_common.h',
-            'libusb/libusb/os/windows_nt_shared_types.h',
             'libusb/libusb/os/windows_usbdk.c',
             'libusb/libusb/os/windows_usbdk.h'
             'libusb/msvc/config.h',
